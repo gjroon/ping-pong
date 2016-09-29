@@ -17,7 +17,6 @@ Ping9
 Pong9
 Ping10
 Pong10
-George
 
+Ping27
 
-I like turtles
